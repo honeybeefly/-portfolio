@@ -12,6 +12,6 @@
   <rect width="600" height="400" fill="url(#pGrad)" rx="16" stroke="#ff2e97" stroke-width="2" />
   <circle cx="300" cy="180" r="70" fill="rgba(0,0,0,0.4)" stroke="#ff2e97" stroke-width="3" filter="url(#pGlow)" />
   <text x="300" y="195" fill="#ff2e97" font-family="monospace" font-size="44" text-anchor="middle" font-weight="bold">⚡ NMAP</text>
-  <text x="300" y="320" fill="#ffffff" font-family="'Orbitron', sans-serif" font-size="22" text-anchor="middle" font-weight="bold">PORT AUDITOR & RECON</text>
+  <text x="300" y="320" fill="#ffffff" font-family="'Orbitron', sans-serif" font-size="22" text-anchor="middle" font-weight="bold">PORT AUDITOR &amp; RECON</text>
   <line x1="150" y1="345" x2="450" y2="345" stroke="#ff2e97" stroke-width="2" stroke-dasharray="6,4" />
 </svg>
